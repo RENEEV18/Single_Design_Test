@@ -44,4 +44,10 @@ class Appsize {
   static const kWidth40 = SizedBox(
     width: 40,
   );
+  static const kWidth50 = SizedBox(
+    width: 50,
+  );
+  static const kWidth60 = SizedBox(
+    width: 120,
+  );
 }
